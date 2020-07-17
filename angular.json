@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "vinay-portfolio"
+    }
+  },
+  "defaultProject": "vinay-portfolio",
+  "cli": {
+    "analytics": "6058b7af-3105-4cb4-b346-8cbd16aa609f"
+  }
 }
